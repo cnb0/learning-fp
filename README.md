@@ -1,5 +1,6 @@
-# learning-fp
-Learning Unit of Software size estimation and measurement , SNAP IFPUG and IFP
+# learning- SQA, IFPUG-FPA, NESMA ,SNAP 
+
+Learning Unit of Software size estimation and measurement 
 
 - [ifpug reference](https://ifpug.mclms.net/en/)
 
@@ -11,11 +12,11 @@ Areas where measurement and metrics can help .Many areas in the IT industry bene
 
 The information is structured in six themes:
 
-- Benchmarking of software projects - Do I get value for money? 
-- Outsourcing of software projects/contracts - Guidelines for RFP’s
+- [Benchmarking of software projects](https://nesma.org/themes/benchmarking/) - Do I get value for money? 
+- [Outsourcing of software projects/contracts](https://nesma.org/themes/outsourcing/) - Guidelines for RFP’s
 - [Productivity measurement and management](https://nesma.org/themes/productivity/challenges-productivity-meaurement/) - Why should I measure productivity? 
-- Project Control - Do you have control over a project?
-- Estimating cost in software projects - Which steps do I need to follow to estimate a budget for a project based on FPA?
-- Sizing methods - Why determine the size of my software product?
+- [Project Control](https://nesma.org/themes/project-control/) - Do you have control over a project?
+- [Estimating cost in software projects](https://nesma.org/themes/estimating/) - Which steps do I need to follow to estimate a budget for a project based on FPA?
+- [Sizing methods](https://nesma.org/themes/sizing/) - Why determine the size of my software product?
  
  
