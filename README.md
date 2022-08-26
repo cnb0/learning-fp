@@ -1,6 +1,6 @@
 # learning- SQA, FPA/NESMA, SNAP 
 
-Learning Unit of Software measurement parameterization. software size and complexity estimation  
+  Unit of Software measurement parameterization. software size and complexity estimation  
 
 - [SDLC Evolution](https://www.simplilearn.com/project-management-life-cycles-evolution-article)
 - [SQA](https://www.tutorialspoint.com/software_quality_management/index.htm)
