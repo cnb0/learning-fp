@@ -1,11 +1,13 @@
-# learning-  SQA, FPA/NESMA, SNAP 
+# learning- SQA, FPA/NESMA, SNAP 
 
 Learning Unit of Software measurement parameterization and size estimation  
 
+- [SDLC Evolution](https://www.simplilearn.com/project-management-life-cycles-evolution-article)
+- [SQA](https://www.tutorialspoint.com/software_quality_management/index.htm)
+- [Parametric Estimating](https://project-management.info/parametric-estimating/)
 - [ifpug reference](https://ifpug.mclms.net/en/)
 - [Ifpug Tips](https://ifpug.org/ifpug-standards/fpa)
 - [SNAP Tips](https://ifpug.org/ifpug-standards/snap#itips)
-- [SDLC Evolution](https://www.simplilearn.com/project-management-life-cycles-evolution-article)
 
 ### [NESMA](https://nesma.org/freedocs/nesma-on-sizing-function-point-analysis/0)
 
