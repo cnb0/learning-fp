@@ -1,10 +1,11 @@
-# learning- SQA, IFPUG-FPA, NESMA ,SNAP 
+# learning-  SQA, FPA/NESMA, SNAP 
 
-Learning Unit of Software size estimation and measurement 
+Learning Unit of Software measurement parameterization and size estimation  
 
 - [ifpug reference](https://ifpug.mclms.net/en/)
 - [Ifpug Tips](https://ifpug.org/ifpug-standards/fpa)
 - [SNAP Tips](https://ifpug.org/ifpug-standards/snap#itips)
+- [SDLC Evolution](https://www.simplilearn.com/project-management-life-cycles-evolution-article)
 
 ### [NESMA](https://nesma.org/freedocs/nesma-on-sizing-function-point-analysis/0)
 
