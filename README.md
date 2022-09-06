@@ -9,6 +9,36 @@
 - [Ifpug Tips](https://ifpug.org/ifpug-standards/fpa)
 - [SNAP Tips](https://ifpug.org/ifpug-standards/snap#itips)
 
+
+### IFPUG - FPA
+
+- Overview of Function Point Analysis 
+- User View ( Functional requirements and Non Functional requirements ) 
+- Determine Type of Count 
+- Identify Counting Scope and Application Boundary
+- Count Data Functions 
+
+           - ILF (Internal Logical file)
+           - EIF (External Interface Files)
+           - Identifying RETs, DETs
+           - Rate Complexity - RETs,DETs
+
+- Count Transactional Functions 
+
+           - EI (External Inputs)
+           - EQ (External Inquiries)
+           - EO (External Outputs)
+           - Identifying   DETs, FTRs
+           - Rate Complexity - DETs, FTRs
+
+- Determine Value Adjustment Factor (VAF) - GSC (Global system Charaterstics)
+
+- Calculate Adjusted Function Point Count 
+
+            - Development Project
+            - Enhancement project
+            - Application Project 
+
 ### [NESMA](https://nesma.org/freedocs/nesma-on-sizing-function-point-analysis/0)
 
 Areas where measurement and metrics can help .Many areas in the IT industry benefit from metrics. On her website Nesma offers information about software measurement, software metrics and the way they could be and should be applied in practice. 
