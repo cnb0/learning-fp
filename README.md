@@ -1,4 +1,4 @@
-# learning- SQA, FPA/NESMA, SNAP 
+# learning- UMSP, Impacted Function Point(FPA/NESMA) & SNAP 
 
 ### 1. UMSP (Unit of software measurement parameterization)
 
