@@ -1,17 +1,15 @@
 # learning- SQA, FPA/NESMA, SNAP 
 
-  Unit of Software measurement parameterization. software size and complexity estimation  
+### 1. UMSP (Unit of software measurement parameterization)
 
 - [SDLC Evolution](https://www.simplilearn.com/project-management-life-cycles-evolution-article)
 - [SQA](https://www.tutorialspoint.com/software_quality_management/index.htm)
 - [Parametric Estimating](https://project-management.info/parametric-estimating/)
-- [ifpug reference](https://ifpug.mclms.net/en/)
-- [Ifpug Tips](https://ifpug.org/ifpug-standards/fpa)
-- [SNAP Tips](https://ifpug.org/ifpug-standards/snap#itips)
 
 
-### [IFPUG] - FPA(https://ifpug.org/ifpug-standards/fpa)
+### 2. [IFPUG FPA](https://ifpug.org/ifpug-standards/fpa)
 
+- Software size estimation and complexity analysis
 - Overview of Function Point Analysis 
 - User View ( Functional requirements and Non Functional requirements ) 
 - Determine Type of Count 
@@ -39,7 +37,11 @@
             - Enhancement project
             - Application Project 
 
-### [NESMA](https://nesma.org/freedocs/nesma-on-sizing-function-point-analysis/0)
+- [ifpug reference](https://ifpug.mclms.net/en/)
+- [Ifpug Tips](https://ifpug.org/ifpug-standards/fpa)
+- [SNAP Tips](https://ifpug.org/ifpug-standards/snap#itips)
+
+### 3. [NESMA](https://nesma.org/freedocs/nesma-on-sizing-function-point-analysis/0)
 
 Areas where measurement and metrics can help .Many areas in the IT industry benefit from metrics. On her website Nesma offers information about software measurement, software metrics and the way they could be and should be applied in practice. 
 
