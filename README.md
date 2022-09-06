@@ -7,7 +7,7 @@
 - [Parametric Estimating](https://project-management.info/parametric-estimating/)
 
 
-### 2. [IFPUG FPA](https://ifpug.org/ifpug-standards/fpa)
+### 2. Impacted Function Point [IFPUG FPA](https://ifpug.org/ifpug-standards/fpa)
 
 - Software size estimation and complexity analysis
 - Overview of Function Point Analysis 
@@ -26,7 +26,7 @@
            - EI (External Inputs)
            - EQ (External Inquiries)
            - EO (External Outputs)
-           - Identifying   DETs, FTRs
+           - Identifying  FTRS, DETs
            - Rate Complexity - DETs, FTRs
 
 - Determine Value Adjustment Factor (VAF) - GSC (Global system Charaterstics)
@@ -37,8 +37,8 @@
             - Enhancement project
             - Application Project 
 
-- [ifpug reference](https://ifpug.mclms.net/en/)
-- [Ifpug Tips](https://ifpug.org/ifpug-standards/fpa)
+- [IFPUG reference](https://ifpug.mclms.net/en/)
+- [IFPUG Tips](https://ifpug.org/ifpug-standards/fpa)
 - [SNAP Tips](https://ifpug.org/ifpug-standards/snap#itips)
 
 ### 3. [NESMA](https://nesma.org/freedocs/nesma-on-sizing-function-point-analysis/0)
@@ -58,4 +58,5 @@ The information is structured in six themes:
 - [Software Size measures - 1](https://nesma.org/2015/05/software-size-measures-and-their-use-in-software-project-cost-estimation/) - use in software project estimation 
 - [Software Size measures - 2](https://nesma.org/2015/07/software-size-measures-and-their-use-in-software-project-estimation-part-2/)-- use in software project estimation 
  
- 
+### 4. [SNAP](https://ifpug.org/ifpug-standards/snap) & NFR(Non Functional Requirements) 
+- [SNAP Tips](https://ifpug.org/ifpug-standards/snap#itips)
