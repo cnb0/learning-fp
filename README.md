@@ -7,7 +7,7 @@
 - [Parametric Estimating](https://project-management.info/parametric-estimating/)
 
 
-### 2. Impacted Function Point [IFPUG FPA](https://ifpug.org/ifpug-standards/fpa)
+### 2.1 Impacted Function Point [IFPUG FPA](https://ifpug.org/ifpug-standards/fpa)
 
 - Software size estimation and complexity analysis
 - Overview of Function Point Analysis 
@@ -41,7 +41,7 @@
 - [IFPUG Tips](https://ifpug.org/ifpug-standards/fpa)
 - [SNAP Tips](https://ifpug.org/ifpug-standards/snap#itips)
 
-### 3. [NESMA](https://nesma.org/freedocs/nesma-on-sizing-function-point-analysis/0)
+### 2.2. [NESMA](https://nesma.org/freedocs/nesma-on-sizing-function-point-analysis/0)
 
 Areas where measurement and metrics can help .Many areas in the IT industry benefit from metrics. On her website Nesma offers information about software measurement, software metrics and the way they could be and should be applied in practice. 
 
@@ -58,5 +58,5 @@ The information is structured in six themes:
 - [Software Size measures - 1](https://nesma.org/2015/05/software-size-measures-and-their-use-in-software-project-cost-estimation/) - use in software project estimation 
 - [Software Size measures - 2](https://nesma.org/2015/07/software-size-measures-and-their-use-in-software-project-estimation-part-2/)-- use in software project estimation 
  
-### 4. [SNAP](https://ifpug.org/ifpug-standards/snap) & NFR(Non Functional Requirements) 
+### 3. [SNAP](https://ifpug.org/ifpug-standards/snap) & NFR(Non Functional Requirements) 
 - [SNAP Tips](https://ifpug.org/ifpug-standards/snap#itips)
