@@ -5,7 +5,11 @@
 
 - [SDLC Evolution](https://www.simplilearn.com/project-management-life-cycles-evolution-article)
 - [SQA](https://www.tutorialspoint.com/software_quality_management/index.htm)
+- [Estimating Types](https://project-management.info/estimating-activity-durations/#2-how-is-activity-duration%0Aestimated)
 - [Parametric Estimating](https://project-management.info/parametric-estimating/)
+- [Sizing methods](https://nesma.org/themes/sizing/) - Why determine the size of my software product?
+- [Software Size measures - 1](https://nesma.org/2015/05/software-size-measures-and-their-use-in-software-project-cost-estimation/) - use in software project estimation 
+- [Software Size measures - 2](https://nesma.org/2015/07/software-size-measures-and-their-use-in-software-project-estimation-part-2/)-- use in software project estimation 
 
 
 ### 2.1 Impacted Function Point [IFPUG FPA](https://ifpug.org/ifpug-standards/fpa)
@@ -55,9 +59,7 @@ The information is structured in six themes:
 - [Productivity measurement and management](https://nesma.org/themes/productivity/challenges-productivity-meaurement/) - Why should I measure productivity? 
 - [Project Control](https://nesma.org/themes/project-control/) - Do you have control over a project?
 - [Estimating cost in software projects](https://nesma.org/themes/estimating/) - Which steps do I need to follow to estimate a budget for a project based on FPA?
-- [Sizing methods](https://nesma.org/themes/sizing/) - Why determine the size of my software product?
-- [Software Size measures - 1](https://nesma.org/2015/05/software-size-measures-and-their-use-in-software-project-cost-estimation/) - use in software project estimation 
-- [Software Size measures - 2](https://nesma.org/2015/07/software-size-measures-and-their-use-in-software-project-estimation-part-2/)-- use in software project estimation 
+
  
 ### 3. [SNAP](https://ifpug.org/ifpug-standards/snap) & NFR(Non Functional Requirements) 
 - [SNAP Tips](https://ifpug.org/ifpug-standards/snap#itips)
