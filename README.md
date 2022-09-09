@@ -43,6 +43,8 @@
             - Application Project 
 
 - [IFPUG reference](https://ifpug.mclms.net/en/)
+- [FPA Calculator - 1](https://w3.cs.jmu.edu/bernstdh/web/common/webapps/oop/fpcalculator/FunctionPointCalculator.html)
+- [FPA Calculator - 2 ](http://groups.umd.umich.edu/cis/course.des/cis525/js/f00/harvey/FP_Calc.html)
 - [IFPUG Tips](https://ifpug.org/ifpug-standards/fpa)
 - [SNAP Tips](https://ifpug.org/ifpug-standards/snap#itips)
 
