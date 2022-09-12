@@ -7,6 +7,7 @@
 - [SQA](https://www.tutorialspoint.com/software_quality_management/index.htm)
 - [Estimating Types](https://project-management.info/estimating-activity-durations/#2-how-is-activity-duration%0Aestimated)
 - [Parametric Estimating](https://project-management.info/parametric-estimating/)
+- [Estimation Techniques](https://www.tutorialspoint.com/estimation_techniques/estimation_techniques_quick_guide.htm)
 - [Sizing methods](https://nesma.org/themes/sizing/) - Why determine the size of my software product?
 - [Software Size measures - 1](https://nesma.org/2015/05/software-size-measures-and-their-use-in-software-project-cost-estimation/) - use in software project estimation 
 - [Software Size measures - 2](https://nesma.org/2015/07/software-size-measures-and-their-use-in-software-project-estimation-part-2/)-- use in software project estimation 
