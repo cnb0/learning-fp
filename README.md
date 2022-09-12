@@ -47,7 +47,7 @@
 - [Improve Your Sizing](https://www.isbsg.org/resources-sizing/)
 - [FPA Calculator - 1](https://w3.cs.jmu.edu/bernstdh/web/common/webapps/oop/fpcalculator/FunctionPointCalculator.html)
 - [IFPUG Tips](https://ifpug.org/ifpug-standards/fpa)
-- [SNAP Tips](https://ifpug.org/ifpug-standards/snap#itips)
+- [FPA-Flow](https://people.cs.ksu.edu/~padmaja/Project/CostEstimate)
 
 ### 2.2. [NESMA](https://nesma.org/freedocs/nesma-on-sizing-function-point-analysis/0)
 
