@@ -63,6 +63,7 @@ The information is structured in six themes:
 - [Productivity measurement and management](https://nesma.org/themes/productivity/challenges-productivity-meaurement/) - Why should I measure productivity? 
 - [Project Control](https://nesma.org/themes/project-control/) - Do you have control over a project?
 - [Estimating cost in software projects](https://nesma.org/themes/estimating/) - Which steps do I need to follow to estimate a budget for a project based on FPA?
+- [Nesma Enhancement Impact Factor](http://www.functionpointmodeler.com/fpm-infocenter/index.jsp?topic=%2Fcom.functionpointmodeler.fpm.help%2Fditafiles%2Fconcepts%2Fcon-120.html)
 - [Software Size Estimation tool](http://softwarecost.org/tools/COCOMO/)
 - [Agile Estimation](https://www.isbsg.org/resources-agile/)
  
