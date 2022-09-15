@@ -15,6 +15,7 @@
 
 
 ### 2.1 Impacted Function Point [IFPUG FPA](https://ifpug.org/ifpug-standards/fpa)
+![FPA Workflow](fp.manual/FPA-workflow-diagram.png)
 
 - Software size estimation and complexity analysis
 - Overview of Function Point Analysis 
