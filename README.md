@@ -69,5 +69,5 @@ The information is structured in six themes:
 - [Software Size Estimation tool](http://softwarecost.org/tools/COCOMO/)
 - [ISBSG Agile Estimation](https://www.isbsg.org/resources-agile/)
  
-### 3. [SNAP](https://ifpug.org/ifpug-standards/snap) & NFR(Non Functional Requirements) 
+### 3.  NFR(Non Functional Requirements) & [SNAP](https://ifpug.org/ifpug-standards/snap)  
 - [SNAP Tips](https://ifpug.org/ifpug-standards/snap#itips)
